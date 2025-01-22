@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BoardSlot
+  - Small
+  - Medium
+  - Large
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BoardSlot
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 676670377
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: label
+    uniqueID: 228326177
+    locked: 0
+  - name: Top
+    uniqueID: 1848435911
+    locked: 0

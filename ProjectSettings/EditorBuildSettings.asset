@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/taptostart.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/choose character.unity
+    guid: bfcbdf39222a0bc4ab3fea75e7790d94
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 63aea5c87581b8f4fa9f6660347b7fc8
+  - enabled: 0
+    path: Assets/Scenes/test.unity
+    guid: 913ba1ff2a29e5e4c88b4adc017454ce
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 18e37806240c8fe41875f58ab5e09365
+  - enabled: 1
+    path: Assets/Scenes/Load screen.unity
+    guid: 060727887ce5b8442a9dd5e6880e497b
+  - enabled: 1
+    path: Assets/Scenes/AreYouReady.unity
+    guid: bc4675700702f6d4688c372efe8b9e9e
+  - enabled: 1
+    path: Assets/Scenes/change pet.unity
+    guid: 0b3067c853b3d6a4297150e879720e7a
+  - enabled: 1
+    path: Assets/Scenes/named pet.unity
+    guid: 72b10d3cd286b904988f3a665ef1df38
+  - enabled: 1
+    path: Assets/Scenes/Achevivement.unity
+    guid: 5916671ba232b834986dc0168f4af2d7
+  - enabled: 1
+    path: Assets/Scenes/Level1Remember.unity
+    guid: 92b565db221842e45aae23a2b0ecb40d
+  - enabled: 1
+    path: Assets/Scenes/Level1Tutorial.unity
+    guid: fde938c3f03d35f489839a95688c7b4d
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: f42b9eefc0edcd942a9fe010101edece
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: b3021bf1e7e42154a9fb03be5309a7de
+  - enabled: 1
+    path: Assets/Scenes/Level2Remember.unity
+    guid: 5589f027357074c43a66bb24aaf37347
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 68f09204ce263af4b89840c7d5308b41
+  - enabled: 1
+    path: Assets/Scenes/Level3Remember.unity
+    guid: 7e67903a7164ed848bc2524be702d5d2
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 12c70bd44b4e43f49aa1b827edc07ac9
+  - enabled: 1
+    path: Assets/Scenes/Level4Remember.unity
+    guid: 6b5c6dcda1e195f46b241f8b2ebc2996
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 809500d67ac06f745881dc9efb341495
+  - enabled: 1
+    path: Assets/Scenes/Minigame main.unity
+    guid: 5a55ca8e435402744b3b328e6c05aab2
+  - enabled: 1
+    path: Assets/Scenes/Chess/eggy chess.unity
+    guid: efcf8ac5d69e656479a8a23f0b3c4de3
+  - enabled: 1
+    path: Assets/Scenes/Chess/How to play.unity
+    guid: 2e209df801f082c43a92631adf067441
+  - enabled: 1
+    path: Assets/Scenes/Chess/How to play 2.unity
+    guid: 4a083e76963b7304abf9421df7840db1
+  - enabled: 1
+    path: Assets/Scenes/Chess/chess play1.unity
+    guid: f1cb16c28ec70604a94694f4854bb980
+  - enabled: 1
+    path: Assets/Scenes/croc/croc teeth.unity
+    guid: 956fce1f9223fb044bedd37aa6dff094
+  - enabled: 1
+    path: Assets/Scenes/croc/how to play croc.unity
+    guid: 4252b7aed10efda49b10ec2ee1ee52e4
+  - enabled: 1
+    path: Assets/Scenes/croc/how to play croc2.unity
+    guid: 010f13de40b6a4041b9e5c712a390075
+  - enabled: 1
+    path: Assets/Scenes/croc/play croc.unity
+    guid: ba1000ca0f2f225498c447c866a43016
+  - enabled: 1
+    path: Assets/Scenes/croc/play croc 1.unity
+    guid: b03ed3edbc1ff1f409376627adff988f
+  - enabled: 1
+    path: Assets/Scenes/croc/play croc 2.unity
+    guid: ebc91b53a545ec84b85bf9d7840b0609
+  - enabled: 1
+    path: Assets/Scenes/Chess/chess play 2.unity
+    guid: 4a43289802fb3c04fbf3ecd4eeed01ed
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e599c8b26693bfa4c8ca05637167261d, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5d18b31e91eaa15419b12692627f6335, type: 2}

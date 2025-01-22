@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 67b26393a31de5041846dcee68883f42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myMixer: {fileID: 24100000, guid: c1c30fc53e3e95945abf242b9369561a, type: 2}
+  - MusicSlider: {instanceID: 0}
+  - SFXSlider: {instanceID: 0}
+  - soundOnIcon: {instanceID: 0}
+  - soundOffIcon: {instanceID: 0}
+  - soundOnBttn: {instanceID: 0}
+  - soundOffBttn: {instanceID: 0}
+  - sfxOnIcon: {instanceID: 0}
+  - sfxOffIcon: {instanceID: 0}
+  - sfxOnBttn: {instanceID: 0}
+  - sfxOffBttn: {instanceID: 0}
+  - saveButtonImage: {instanceID: 0}
+  - savedSprite: {instanceID: 0}
+  - defaultSprite: {instanceID: 0}
+  - muteMusicSliderImage: {instanceID: 0}
+  - muteSFXSliderImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
